@@ -4,7 +4,7 @@ public class CajaDeAhorroEspecial extends CajaDeAhorro {
 
     private int limite;
 
-    CajaDeAhorroEspecial(int limite, Cliente cliente){
+    public CajaDeAhorroEspecial(int limite, Cliente cliente){
         super(cliente);
         this.limite = limite;
     }

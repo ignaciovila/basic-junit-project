@@ -1,6 +1,6 @@
 package estacionamiento;
 
-public class Vehiculo {
+public abstract class Vehiculo {
 
 
 }

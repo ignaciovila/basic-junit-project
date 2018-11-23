@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a2f84131-26b1-4b0a-aa72-01c97032eb51" name="Default Changelist" comment="" />
+    <list default="true" id="a2f84131-26b1-4b0a-aa72-01c97032eb51" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/estacionamientoTest/PlayaDeCargaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/banco/CajaDeAhorroEspecial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/banco/CajaDeAhorroEspecial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/banco/CuentaBancaria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/banco/CuentaBancaria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/estacionamiento/Camion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/estacionamiento/Camion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/estacionamiento/Camioneta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/estacionamiento/Camioneta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/estacionamiento/Carga.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/estacionamiento/Carga.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/estacionamiento/Playa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/estacionamiento/Playa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/estacionamiento/PlayaDeCarga.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/estacionamiento/PlayaDeCarga.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/estacionamiento/PlayaDeEstacionamiento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/estacionamiento/PlayaDeEstacionamiento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/estacionamiento/Utilitario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/estacionamiento/Utilitario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/estacionamiento/Vehiculo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/estacionamiento/Vehiculo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Banco.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/CajaDeAhorro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/CajaDeAhorroEspecial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/CajaDeAhorroMulticliente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Cliente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/CuentaBancaria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/CuentaSueldo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SaldoInsuficienteException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CajaDeAhorroEspecialTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CajaDeAhorroEspecialTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CajaDeAhorroTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CajaDeAhorroTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CuentaSueldoTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CuentaSueldoTest.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,56 +67,110 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="1282386020">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="31" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="31" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="2608" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="2608" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FavoritesManager">
     <favorites_list name="basic-junit-project" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/estacionamiento/PlayaDeCarga.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="26" column="26" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#524#525#0" expanded="true" />
+                <element signature="e#562#563#0" expanded="true" />
+                <element signature="e#1865#1866#0" expanded="true" />
+                <element signature="e#1894#1895#0" expanded="true" />
+                <element signature="e#2032#2033#0" expanded="true" />
+                <element signature="e#2073#2074#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/CajaDeAhorroEspecialTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/CajaDeAhorroTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/estacionamientoTest/PlayaDeCargaTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1320">
+              <caret line="88" column="56" selection-start-line="88" selection-start-column="56" selection-end-line="88" selection-end-column="56" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/estacionamiento/Playa.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/estacionamiento/Vehiculo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/estacionamiento/Carga.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
-              <folding>
-                <element signature="e#92#93#0" expanded="true" />
-                <element signature="e#119#120#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/estacionamiento/Auto.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/estacionamiento/Utilitario.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
-              <folding>
-                <element signature="e#190#191#0" expanded="true" />
-                <element signature="e#223#224#0" expanded="true" />
-                <element signature="e#263#264#0" expanded="true" />
-                <element signature="e#338#339#0" expanded="true" />
-                <element signature="e#388#389#0" expanded="true" />
-                <element signature="e#409#410#0" expanded="true" />
-              </folding>
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -100,46 +178,27 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/estacionamiento/PlayaDeEstacionamiento.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-              <folding>
-                <element signature="e#194#195#0" expanded="true" />
-                <element signature="e#214#215#0" expanded="true" />
-                <element signature="e#294#295#0" expanded="true" />
-                <element signature="e#314#315#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/estacionamiento/PlayaDeCarga.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
-              <caret line="26" column="59" selection-start-line="26" selection-start-column="59" selection-end-line="26" selection-end-column="59" />
+            <state relative-caret-position="150">
+              <caret line="10" column="51" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="51" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#217#218#0" expanded="true" />
-                <element signature="e#263#264#0" expanded="true" />
+                <element signature="e#230#231#0" expanded="true" />
+                <element signature="e#255#256#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/estacionamiento/Playa.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/estacionamiento/Utilitario.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/estacionamiento/Camioneta.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+            <state relative-caret-position="300">
+              <caret line="26" column="32" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#640#641#0" expanded="true" />
+                <element signature="e#669#670#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -147,8 +206,21 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/estacionamiento/Camion.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="30">
+              <caret line="2" column="40" lean-forward="true" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/estacionamiento/Camioneta.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="e#112#113#0" expanded="true" />
+                <element signature="e#132#133#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -159,8 +231,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JUnit4 Test Class" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -188,13 +260,16 @@
         <option value="$PROJECT_DIR$/src/main/java/CajaDeAhorroMulticliente.java" />
         <option value="$PROJECT_DIR$/src/main/java/banco/CajaDeAhorroMulticliente.java" />
         <option value="$PROJECT_DIR$/src/main/java/estacionamiento/Auto.java" />
+        <option value="$PROJECT_DIR$/src/main/java/banco/CuentaBancaria.java" />
+        <option value="$PROJECT_DIR$/src/main/java/banco/CajaDeAhorro.java" />
+        <option value="$PROJECT_DIR$/src/main/java/estacionamiento/Vehiculo.java" />
         <option value="$PROJECT_DIR$/src/main/java/estacionamiento/Camioneta.java" />
         <option value="$PROJECT_DIR$/src/main/java/estacionamiento/Camion.java" />
-        <option value="$PROJECT_DIR$/src/main/java/estacionamiento/Playa.java" />
-        <option value="$PROJECT_DIR$/src/main/java/estacionamiento/PlayaDeEstacionamiento.java" />
-        <option value="$PROJECT_DIR$/src/main/java/estacionamiento/Vehiculo.java" />
         <option value="$PROJECT_DIR$/src/main/java/estacionamiento/Carga.java" />
         <option value="$PROJECT_DIR$/src/main/java/estacionamiento/Utilitario.java" />
+        <option value="$PROJECT_DIR$/src/main/java/estacionamiento/Playa.java" />
+        <option value="$PROJECT_DIR$/src/test/java/estacionamientoTest/PlayaDeCargaTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/estacionamiento/PlayaDeEstacionamiento.java" />
         <option value="$PROJECT_DIR$/src/main/java/estacionamiento/PlayaDeCarga.java" />
       </list>
     </option>
@@ -206,11 +281,10 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="19" />
-    <option name="y" value="42" />
-    <option name="width" value="1402" />
-    <option name="height" value="769" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="805" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -273,9 +347,10 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542917390162" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542980612263" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
@@ -304,67 +379,101 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.CajaDeAhorroEspecialTest">
-    <configuration name="All in basic-junit-project" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.PlayaDeCargaTest.vehiculoPoseeCargaCuandoAsigna">
+    <configuration name="PlayaDeCargaTest.alCargarDejaDeExistirCargaEnLaPlaya" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="basic-junit-project" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TEST_OBJECT" value="package" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CajaDeAhorroEspecialTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="basic-junit-project" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CajaDeAhorroEspecialTest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CajaDeAhorroEspecialTest.ExtraerAUnaCuentaSinSaldoConMontoMenorAlDescubierto" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="basic-junit-project" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CajaDeAhorroEspecialTest" />
-      <option name="METHOD_NAME" value="ExtraerAUnaCuentaSinSaldoConMontoMenorAlDescubierto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="estacionamientoTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="estacionamientoTest" />
+      <option name="MAIN_CLASS_NAME" value="estacionamientoTest.PlayaDeCargaTest" />
+      <option name="METHOD_NAME" value="alCargarDejaDeExistirCargaEnLaPlaya" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CuentaSueldoTest.quintaExtraccionCobraComision" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PlayaDeCargaTest.alCargarDosCargasLaCantidadDespachadaEsDos" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="basic-junit-project" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CuentaSueldoTest" />
-      <option name="METHOD_NAME" value="quintaExtraccionCobraComision" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="estacionamientoTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="estacionamientoTest" />
+      <option name="MAIN_CLASS_NAME" value="estacionamientoTest.PlayaDeCargaTest" />
+      <option name="METHOD_NAME" value="alCargarDosCargasLaCantidadDespachadaEsDos" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CuentaSueldoTest.siSeLanzaExcepcionNoCuentaComoExtraccion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PlayaDeCargaTest.depacharUtilitarioDeLaPlayaDeCarga" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="basic-junit-project" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CuentaSueldoTest" />
-      <option name="METHOD_NAME" value="siSeLanzaExcepcionNoCuentaComoExtraccion" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="estacionamientoTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="estacionamientoTest" />
+      <option name="MAIN_CLASS_NAME" value="estacionamientoTest.PlayaDeCargaTest" />
+      <option name="METHOD_NAME" value="depacharUtilitarioDeLaPlayaDeCarga" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlayaDeCargaTest.sinCargasLaPlayaEstaCerrada" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="basic-junit-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="estacionamientoTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="estacionamientoTest" />
+      <option name="MAIN_CLASS_NAME" value="estacionamientoTest.PlayaDeCargaTest" />
+      <option name="METHOD_NAME" value="sinCargasLaPlayaEstaCerrada" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlayaDeCargaTest.vehiculoPoseeCargaCuandoAsigna" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="basic-junit-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="estacionamientoTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="estacionamientoTest" />
+      <option name="MAIN_CLASS_NAME" value="estacionamientoTest.PlayaDeCargaTest" />
+      <option name="METHOD_NAME" value="vehiculoPoseeCargaCuandoAsigna" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.CuentaSueldoTest.quintaExtraccionCobraComision" />
-      <item itemvalue="JUnit.CuentaSueldoTest.siSeLanzaExcepcionNoCuentaComoExtraccion" />
-      <item itemvalue="JUnit.CajaDeAhorroEspecialTest.ExtraerAUnaCuentaSinSaldoConMontoMenorAlDescubierto" />
-      <item itemvalue="JUnit.All in basic-junit-project" />
-      <item itemvalue="JUnit.CajaDeAhorroEspecialTest" />
+      <item itemvalue="JUnit.PlayaDeCargaTest.depacharUtilitarioDeLaPlayaDeCarga" />
+      <item itemvalue="JUnit.PlayaDeCargaTest.alCargarDejaDeExistirCargaEnLaPlaya" />
+      <item itemvalue="JUnit.PlayaDeCargaTest.alCargarDosCargasLaCantidadDespachadaEsDos" />
+      <item itemvalue="JUnit.PlayaDeCargaTest.sinCargasLaPlayaEstaCerrada" />
+      <item itemvalue="JUnit.PlayaDeCargaTest.vehiculoPoseeCargaCuandoAsigna" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.CajaDeAhorroEspecialTest" />
-        <item itemvalue="JUnit.All in basic-junit-project" />
-        <item itemvalue="JUnit.CajaDeAhorroEspecialTest.ExtraerAUnaCuentaSinSaldoConMontoMenorAlDescubierto" />
-        <item itemvalue="JUnit.CuentaSueldoTest.siSeLanzaExcepcionNoCuentaComoExtraccion" />
-        <item itemvalue="JUnit.CuentaSueldoTest.quintaExtraccionCobraComision" />
+        <item itemvalue="JUnit.PlayaDeCargaTest.vehiculoPoseeCargaCuandoAsigna" />
+        <item itemvalue="JUnit.PlayaDeCargaTest.sinCargasLaPlayaEstaCerrada" />
+        <item itemvalue="JUnit.PlayaDeCargaTest.alCargarDosCargasLaCantidadDespachadaEsDos" />
+        <item itemvalue="JUnit.PlayaDeCargaTest.alCargarDejaDeExistirCargaEnLaPlaya" />
+        <item itemvalue="JUnit.PlayaDeCargaTest.depacharUtilitarioDeLaPlayaDeCarga" />
       </list>
     </recent_temporary>
   </component>
@@ -382,96 +491,77 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CuentaSueldoTest_cuentaSinSaldoLanzaSaldoInsuficienteException - 2018.11.22 at 15h 15m 57s.xml">
-      <configuration name="CuentaSueldoTest.cuentaSinSaldoLanzaSaldoInsuficienteException" configurationId="JUnit" />
+    <history-entry file="PlayaDeCargaTest_alCargarDejaDeExistirCargaEnLaPlaya - 2018.11.23 at 10h 08m 14s.xml">
+      <configuration name="PlayaDeCargaTest.alCargarDejaDeExistirCargaEnLaPlaya" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CajaDeAhorroTest - 2018.11.22 at 15h 16m 35s.xml">
-      <configuration name="CajaDeAhorroTest" configurationId="JUnit" />
+    <history-entry file="PlayaDeCargaTest_alCargarDejaDeExistirCargaEnLaPlaya - 2018.11.23 at 10h 09m 49s.xml">
+      <configuration name="PlayaDeCargaTest.alCargarDejaDeExistirCargaEnLaPlaya" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CajaDeAhorroTest - 2018.11.22 at 15h 17m 07s.xml">
-      <configuration name="CajaDeAhorroTest" configurationId="JUnit" />
+    <history-entry file="PlayaDeCargaTest_alCargarDosCargasLaCantidadDespachadaEsDos - 2018.11.23 at 10h 12m 02s.xml">
+      <configuration name="PlayaDeCargaTest.alCargarDosCargasLaCantidadDespachadaEsDos" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CuentaSueldoTest_cuentaSinSaldoLanzaSaldoInsuficienteException - 2018.11.22 at 15h 17m 12s.xml">
-      <configuration name="CuentaSueldoTest.cuentaSinSaldoLanzaSaldoInsuficienteException" configurationId="JUnit" />
+    <history-entry file="PlayaDeCargaTest_alCargarDosCargasLaCantidadDespachadaEsDos - 2018.11.23 at 10h 12m 44s.xml">
+      <configuration name="PlayaDeCargaTest.alCargarDosCargasLaCantidadDespachadaEsDos" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CuentaSueldoTest_quintaExtraccionCobraComision - 2018.11.22 at 15h 20m 10s.xml">
-      <configuration name="CuentaSueldoTest.quintaExtraccionCobraComision" configurationId="JUnit" />
+    <history-entry file="PlayaDeCargaTest_alCargarDosCargasLaCantidadDespachadaEsDos - 2018.11.23 at 10h 14m 57s.xml">
+      <configuration name="PlayaDeCargaTest.alCargarDosCargasLaCantidadDespachadaEsDos" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CuentaSueldoTest_quintaExtraccionCobraComision - 2018.11.22 at 15h 21m 45s.xml">
-      <configuration name="CuentaSueldoTest.quintaExtraccionCobraComision" configurationId="JUnit" />
+    <history-entry file="PlayaDeCargaTest_alCargarDosCargasLaCantidadDespachadaEsDos - 2018.11.23 at 10h 16m 41s.xml">
+      <configuration name="PlayaDeCargaTest.alCargarDosCargasLaCantidadDespachadaEsDos" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CuentaSueldoTest_siSeLanzaExcepcionNoCuentaComoExtraccion - 2018.11.22 at 15h 32m 09s.xml">
-      <configuration name="CuentaSueldoTest.siSeLanzaExcepcionNoCuentaComoExtraccion" configurationId="JUnit" />
+    <history-entry file="PlayaDeCargaTest_alCargarDosCargasLaCantidadDespachadaEsDos - 2018.11.23 at 10h 17m 13s.xml">
+      <configuration name="PlayaDeCargaTest.alCargarDosCargasLaCantidadDespachadaEsDos" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CajaDeAhorroEspecialTest_ExtraerAUnaCuentaSinSaldoConMontoMenorAlDescubierto - 2018.11.22 at 15h 40m 48s.xml">
-      <configuration name="CajaDeAhorroEspecialTest.ExtraerAUnaCuentaSinSaldoConMontoMenorAlDescubierto" configurationId="JUnit" />
+    <history-entry file="PlayaDeCargaTest_alCargarDosCargasLaCantidadDespachadaEsDos - 2018.11.23 at 10h 17m 44s.xml">
+      <configuration name="PlayaDeCargaTest.alCargarDosCargasLaCantidadDespachadaEsDos" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="All_in_basic-junit-project - 2018.11.22 at 15h 44m 58s.xml">
-      <configuration name="All in basic-junit-project" configurationId="JUnit" />
+    <history-entry file="PlayaDeCargaTest_sinCargasLaPlayaEstaCerrada - 2018.11.23 at 10h 21m 24s.xml">
+      <configuration name="PlayaDeCargaTest.sinCargasLaPlayaEstaCerrada" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CajaDeAhorroEspecialTest - 2018.11.22 at 15h 46m 32s.xml">
-      <configuration name="CajaDeAhorroEspecialTest" configurationId="JUnit" />
+    <history-entry file="PlayaDeCargaTest_vehiculoPoseeCargaCuandoAsigna - 2018.11.23 at 10h 24m 22s.xml">
+      <configuration name="PlayaDeCargaTest.vehiculoPoseeCargaCuandoAsigna" configurationId="JUnit" />
     </history-entry>
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="23" width="1440" height="807" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="805" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" sideWeight="0.50208336" side_tool="true" weight="0.24964234" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49791667" visible="true" weight="0.24964234" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8559499" visible="true" weight="0.25679544" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.32867134" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.1440501" side_tool="true" weight="0.25679544" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32867134" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32819074" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32959327" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32959327" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32819074" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
     </layout>
-    <layout-to-restore>
-      <window_info id="Image Layers" order="0" />
-      <window_info id="Designer" order="1" />
-      <window_info id="UI Designer" order="2" />
-      <window_info id="Capture Tool" order="3" />
-      <window_info id="Favorites" order="4" sideWeight="0.50208336" side_tool="true" weight="0.24964234" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.49791667" visible="true" weight="0.24964234" />
-      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="1" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="3" weight="0.32867134" />
-      <window_info anchor="bottom" id="Message" order="4" />
-      <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.32867134" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info anchor="right" id="Palette" order="0" />
-      <window_info anchor="right" id="Capture Analysis" order="1" />
-      <window_info anchor="right" id="Theme Preview" order="2" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info anchor="right" id="Maven Projects" order="4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
-    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -491,23 +581,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/BancoTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/PrimerTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="36" column="22" lean-forward="true" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -518,60 +595,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/CajaDeAhorroTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="29" column="34" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/CajaDeAhorroEspecialTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/banco/Banco.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/banco/CajaDeAhorro.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/banco/CajaDeAhorroEspecial.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/banco/CajaDeAhorroMulticliente.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding>
-            <element signature="e#186#187#0" expanded="true" />
-            <element signature="e#222#223#0" expanded="true" />
-            <element signature="e#252#253#0" expanded="true" />
-            <element signature="e#280#281#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -589,20 +616,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/banco/CuentaBancaria.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/banco/CuentaSueldo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/banco/SaldoInsuficienteException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -610,43 +623,162 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/banco/CajaDeAhorro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+          <folding>
+            <element signature="e#140#141#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/banco/CajaDeAhorroMulticliente.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/banco/CuentaSueldo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="e#140#141#0" expanded="true" />
+            <element signature="e#170#171#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/banco/CuentaBancaria.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/banco/Banco.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/estacionamiento/Auto.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/function/ToIntFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="47" column="8" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/estacionamiento/Carga.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+          <folding>
+            <element signature="e#101#102#0" expanded="true" />
+            <element signature="e#132#133#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="858" selection-start-line="858" selection-end-line="858" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/BancoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/estacionamiento/Camioneta.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/estacionamiento/Camion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/estacionamiento/Playa.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#112#113#0" expanded="true" />
+            <element signature="e#132#133#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/estacionamiento/PlayaDeEstacionamiento.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        <state relative-caret-position="150">
+          <caret line="10" column="51" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="51" />
           <folding>
-            <element signature="e#194#195#0" expanded="true" />
-            <element signature="e#214#215#0" expanded="true" />
-            <element signature="e#294#295#0" expanded="true" />
-            <element signature="e#314#315#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#230#231#0" expanded="true" />
+            <element signature="e#255#256#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/estacionamiento/Camion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="40" lean-forward="true" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/estacionamiento/Utilitario.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="26" column="32" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#640#641#0" expanded="true" />
+            <element signature="e#669#670#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/estacionamientoTest/PlayaDeCargaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1320">
+          <caret line="88" column="56" selection-start-line="88" selection-start-column="56" selection-end-line="88" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/CajaDeAhorroEspecialTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/CajaDeAhorroTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -654,45 +786,30 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/estacionamiento/Vehiculo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/estacionamiento/Carga.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
-          <folding>
-            <element signature="e#92#93#0" expanded="true" />
-            <element signature="e#119#120#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/estacionamiento/Utilitario.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
-          <folding>
-            <element signature="e#190#191#0" expanded="true" />
-            <element signature="e#223#224#0" expanded="true" />
-            <element signature="e#263#264#0" expanded="true" />
-            <element signature="e#338#339#0" expanded="true" />
-            <element signature="e#388#389#0" expanded="true" />
-            <element signature="e#409#410#0" expanded="true" />
-          </folding>
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/estacionamiento/PlayaDeCarga.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="26" column="59" selection-start-line="26" selection-start-column="59" selection-end-line="26" selection-end-column="59" />
+        <state relative-caret-position="286">
+          <caret line="26" column="26" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#217#218#0" expanded="true" />
-            <element signature="e#263#264#0" expanded="true" />
+            <element signature="e#524#525#0" expanded="true" />
+            <element signature="e#562#563#0" expanded="true" />
+            <element signature="e#1865#1866#0" expanded="true" />
+            <element signature="e#1894#1895#0" expanded="true" />
+            <element signature="e#2032#2033#0" expanded="true" />
+            <element signature="e#2073#2074#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/estacionamiento/Playa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>

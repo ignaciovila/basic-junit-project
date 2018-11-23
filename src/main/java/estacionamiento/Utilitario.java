@@ -1,10 +1,16 @@
 package estacionamiento;
 
+import java.util.ArrayList;
 import java.util.List;
 
-public class Utilitario extends Vehiculo {
+public abstract class Utilitario extends Vehiculo {
     private int cargaMaxima;
-    private List<Carga> cargas;
+    private List<Carga> cargas = new ArrayList<>();
+
+    public Utilitario(int cargaMaxima) {
+        this.cargaMaxima = cargaMaxima;
+        cargas = new ArrayList<>();
+    }
 
     public int getCargaMaxima(){
         return cargaMaxima;
@@ -16,5 +22,9 @@ public class Utilitario extends Vehiculo {
 
     public void addCarga(Carga carga) {
         cargas.add(carga);
+    }
+
+    public List<Carga> getCargas() {
+        return cargas;
     }
 }

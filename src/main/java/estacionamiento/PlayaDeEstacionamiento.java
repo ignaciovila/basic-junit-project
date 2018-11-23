@@ -1,13 +1,15 @@
 package estacionamiento;
 
+import java.util.Collection;
 import java.util.List;
 
 public class PlayaDeEstacionamiento implements Playa{
-    private List<Auto>autos;
+    private List<Vehiculo> autos;
+    private List<Utilitario> utilitarios;
 
     @Override
-    public void estacionar(Vehiculo vehiculo) {
-        autos.add((Auto) vehiculo);
+    public void estacionar(List<Vehiculo> vehiculos) {
+        autos = vehiculos;
     }
 
     @Override
